@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-11T10:11:48.498Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="i9rwyaMHjA6e-DufObR7" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-11T10:24:08.630Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="x1dzwekIpytpTdRg_ETo" version="12.3.9" type="github" pages="1">
   <diagram id="9pqVZNMnvHMWW9GRLAtv" name="Page-1">
     <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,14 +30,70 @@
             <mxPoint x="400" y="520" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BCeBebv8FfAkpqQv-19W-7" value="Checking&lt;br&gt;&amp;nbsp;user == true" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="BCeBebv8FfAkpqQv-19W-7" value="&lt;b&gt;Checking&lt;br&gt;&amp;nbsp;user == true&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="340" width="100" height="100" as="geometry"/>
         </mxCell>
+        <mxCell id="BCeBebv8FfAkpqQv-19W-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCeBebv8FfAkpqQv-19W-13" target="BCeBebv8FfAkpqQv-19W-17">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="BCeBebv8FfAkpqQv-19W-13" value="&lt;font color=&quot;#990000&quot;&gt;Show message(Email id or Password Does not Match)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="460" y="440" width="190" height="50" as="geometry"/>
+          <mxGeometry x="540" y="430" width="190" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="BCeBebv8FfAkpqQv-19W-17" value="Attempt = Attempt + 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="540" y="560" width="190" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="BCeBebv8FfAkpqQv-19W-16" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="485" y="370" width="30" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="BCeBebv8FfAkpqQv-19W-21" value="&lt;b&gt;Yes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="460" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="BCeBebv8FfAkpqQv-19W-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCeBebv8FfAkpqQv-19W-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="640" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCeBebv8FfAkpqQv-19W-22" value="Send Authentication code to email ID" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="520" width="180" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="BCeBebv8FfAkpqQv-19W-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.47;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BCeBebv8FfAkpqQv-19W-25" target="BCeBebv8FfAkpqQv-19W-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="690" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCeBebv8FfAkpqQv-19W-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCeBebv8FfAkpqQv-19W-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="820" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCeBebv8FfAkpqQv-19W-25" value="Checking Mail &lt;br&gt;send == true" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="640" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="BCeBebv8FfAkpqQv-19W-30" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="670" width="30" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="BCeBebv8FfAkpqQv-19W-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCeBebv8FfAkpqQv-19W-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="840" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCeBebv8FfAkpqQv-19W-33" value="Resend mail and update in database authentication code" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="545" y="720" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="BCeBebv8FfAkpqQv-19W-36" value="&lt;b&gt;C&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="622.5" y="840" width="45" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="BCeBebv8FfAkpqQv-19W-37" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="780" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="BCeBebv8FfAkpqQv-19W-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCeBebv8FfAkpqQv-19W-41" target="BCeBebv8FfAkpqQv-19W-43">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="BCeBebv8FfAkpqQv-19W-41" value="Insert data into table(tracking table) for tracking record and update verification code to existing email id into table (login table)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="820" width="260" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BCeBebv8FfAkpqQv-19W-43" value="Redirect to Verification page with session ( email id )" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="940" width="200" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
