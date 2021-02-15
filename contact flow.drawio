@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T08:19:48.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="wfrJIVqFKKRH3J2-s2XW" version="14.3.1" type="github"><diagram id="h6qlHB6eGpHt7OrfhJ80" name="Page-1">5Vpdc+MmFP01fkxGAn3Yjxs7TWe66WQmnen2EUtYUisJLUKxnV/fi0CfKFnvbGxtsi+JuICAw7nncpEXeJ0d7jgp4nsW0nSBrPCwwJsFQra3cuGftByVxVkiZYh4EupGneExeabaaGlrlYS0HDQUjKUiKYbGgOU5DcTARjhn+2GzHUuHoxYkoobhMSCpaf07CUWsrEvkd/bfaRLFzciwYlWTkaaxXkkZk5DteyZ8u8BrzphQT9lhTVMJXoOL6vfbC7XtxDjNxSkd8t2XjXfvVLefD8/LP8Sq3MboylNveSJppResJyuODQI0BEB0kXERs4jlJL3trDecVXlI5TAWlLo2nxkrwGiD8V8qxFHvLqkEA1MsslTXqjHlQC+uTZtKVvGAvrIgPX9BeETFK+3cdgeAupRlVPAj9OM0JSJ5Gs6DaA5FbbsOZnjQSH8H6shAHegrCNAXWVUJf1JKQsnWFAhj7EeaAvkl7vs4EfSxIDUge/C/KVSfKBf08DquJg66A3Y0ebX3LnVx37mC3fA77rlB0+7NkVt+NL66J/LVn5OvjRj/erCv5oTdNVAvaUprlcgoD2KSy0dxLKixGzxm2Rak5DIi4Q5EAuEJlbAnVKKVjrcX2A9HWP9EwtqzMtY3YP+TQgSz7lu6eiSTDMy3ZdEC1NuU87PVdochDXknxjTvXGRdGaDdHpJSJHk0QO7iSLn4Z0MKmYr4zt3aXp3o18iZ06+x88sCj/GcwNumOOjcoAxoTnjCZg39tjeUCLyakAjrkgkCwgZgJSgpgAPr4iys6uNTc44aQQdAiCFGJE2iHJ4BbEE5GCRcSUDST7oiS8JQkZuWyTPZ1q+S9C5Ykot6de7Nwt3IdwGfS0XtN4LfOQH9KYE+37nLPAC8c51AzqkC7c2pE8gU6GTXXSSoHMFK5N0CnMFSyfIth6dIPtGvFZEjAIzIimCuOfzf0vryYaI5yeW6mHy9iGk2qwBdterS+IDnX7umFzQpyjD9cM+1G+a1mn0N5QcmN+CeBHGSUxNYJNusGS8YJ0Lu112yU8fAcUtcv40cM1qngHfQfE+Oxk5cAP9lC7feAN9BUxtw0XMiRhMypDCM7QbDxlIWJB/A5n2t5J3szY7l4koJ9idoYKPiIP1B9rTqur1ei6x1JA91pQwjVzpyyDodPNoXNzO4J4lcSsRo2XhfSQF72M1UYkyCgPFQ5QF1LbhbL3j14pnyb7UeQEwtabjMjjy9hn00vhkLS8HZf3TNUgaBcJOzXGr1LknTkQlGD+Sk8cbtSn/V0n1VQzRFSwY0rK878SaGkAoSNI4Db8FWNEpp3KmUZjVBVf9sVP1wERPjEyMmnjViYvNkPQfwAC8/ftH968I/snDtNsXNoV+5OQ684bIb5vxoDqq7PsijceeVeHQj41mjuKwmpnuNtr2dxg8wwUwZQGhlTAjpjlSpMCW0U976SPXAHs2brXGfNuzPma+NoHbdEzOG9v727f3QvNPJKvl996Mla+0n7eZL+Orkg9LZ8jVsHlQnDiVF/9h6PcMpc0xb35v7hOmYmvFzh+1vizs6i7g7I9Z7eCTuKjydTdwdMxW4Ofal3coU4Uuahw3haz2HCi3Ycq7ANTVa/Rz0kjQ4+krEm1wsmi0XG8dR3z9R3M/nJVPXxv2sS0XG+qaiKmWK1CU3ZgDtgx41mfFEu+GGTGQ/g0Dd7tcL2dOM0Xr8YdV1Ju828GS8PtfdhjMRr/se9N6jNBrp1cSdqn/JEO2YIfoj4e3YzlC0rLPhDcXu13YqvnS/WcS3/wM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-15T09:52:32.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="TE9mqN1T9BA8FV-rngKo" version="14.3.1" type="github">
+  <diagram id="h6qlHB6eGpHt7OrfhJ80" name="Page-1">
+    <mxGraphModel dx="1695" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nfXD6M4uELxz8Kt9sbh2-2" target="nfXD6M4uELxz8Kt9sbh2-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-2" value="contact us &lt;br&gt;lead flow" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="nfXD6M4uELxz8Kt9sbh2-5" target="nfXD6M4uELxz8Kt9sbh2-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="201" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nfXD6M4uELxz8Kt9sbh2-5" target="nfXD6M4uELxz8Kt9sbh2-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-5" value="select merchant type" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="230" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nfXD6M4uELxz8Kt9sbh2-7" target="nfXD6M4uELxz8Kt9sbh2-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-7" value="New Merchant&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="6" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-9" value="Existing Merchant" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nfXD6M4uELxz8Kt9sbh2-19" target="nfXD6M4uELxz8Kt9sbh2-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nfXD6M4uELxz8Kt9sbh2-19" target="nfXD6M4uELxz8Kt9sbh2-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-19" value="lead scenario" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="16" y="400" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-23" value="single product select" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-104" y="400" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nfXD6M4uELxz8Kt9sbh2-24" target="nfXD6M4uELxz8Kt9sbh2-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-24" value="if lead type is &lt;br&gt;equal to given below &lt;br&gt;any of them" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-244" y="377.5" width="145" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-26" value="1. Pos Machine&lt;br&gt;2. Corporate Gifting&lt;br&gt;3. Payment Gateway" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-231.5" y="775" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-32" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400 ; text-align: center&quot;&gt;Mail goes to separately according to the select product type&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="560" width="190" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nfXD6M4uELxz8Kt9sbh2-33" target="nfXD6M4uELxz8Kt9sbh2-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nfXD6M4uELxz8Kt9sbh2-33" target="nfXD6M4uELxz8Kt9sbh2-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="206" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-33" value="then default&lt;br&gt;product is PoS&amp;nbsp;&lt;br&gt;Machine" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="6" y="560" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-35" value="multiproduct select" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="66" y="502.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-36" value="Mail goes to pos Machine." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="6" y="775" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="nfXD6M4uELxz8Kt9sbh2-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="266" y="645" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-42" value="By default mail send to PoS machine as well as corporate or payment gateway" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="206" y="775" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-44" value="&lt;span&gt;if user select &lt;br&gt;corporate gifting &lt;br&gt;or payment&lt;br&gt;&amp;nbsp;gateway&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="201" y="557.5" width="130" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-45" value="mail send" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="76" y="700" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nfXD6M4uELxz8Kt9sbh2-46" value="mail send" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="710" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
