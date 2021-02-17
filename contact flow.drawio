@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T05:18:35.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Fa1HkQapcuSozNol6KdV" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T05:22:33.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="XmhpA9jAMkZ8w6nin1n9" version="14.3.2" type="github">
   <diagram id="h6qlHB6eGpHt7OrfhJ80" name="Page-1">
-    <mxGraphModel dx="2563" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nfXD6M4uELxz8Kt9sbh2-9" value="Existing Merchant" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="747" y="259" width="120" height="60" as="geometry" />
+          <mxGeometry x="747" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nfXD6M4uELxz8Kt9sbh2-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nfXD6M4uELxz8Kt9sbh2-19" target="nfXD6M4uELxz8Kt9sbh2-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -125,7 +125,7 @@
         <mxCell id="NshhgBDtYLM9EDTRPuQp-50" value="Mail goes to pos Machine." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="747" y="806.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J4l6CzO9O-Jok7KTFXxV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NshhgBDtYLM9EDTRPuQp-53" target="J4l6CzO9O-Jok7KTFXxV-2">
+        <mxCell id="J4l6CzO9O-Jok7KTFXxV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NshhgBDtYLM9EDTRPuQp-53" target="J4l6CzO9O-Jok7KTFXxV-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NshhgBDtYLM9EDTRPuQp-53" value="&lt;span&gt;if user select &lt;br&gt;corporate gifting &lt;br&gt;or payment&lt;br&gt;&amp;nbsp;gateway with&lt;br&gt;pos machine&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -137,13 +137,13 @@
         <mxCell id="NshhgBDtYLM9EDTRPuQp-55" value="mail send" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1141" y="731.5" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="J4l6CzO9O-Jok7KTFXxV-1" value="if gifting and payment &lt;br&gt;gateway is also selected &lt;br&gt;with other product&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="J4l6CzO9O-Jok7KTFXxV-1" value="if gifting and payment &lt;br&gt;gateway is also selected &lt;br&gt;with other product&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="941" y="591.5" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="J4l6CzO9O-Jok7KTFXxV-2" value="&lt;span&gt;By default mail send to PoS machine as well as corporate or payment gateway&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J4l6CzO9O-Jok7KTFXxV-2" value="&lt;span&gt;By default mail send to PoS machine as well as corporate or payment gateway&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1156" y="811.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J4l6CzO9O-Jok7KTFXxV-4" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="J4l6CzO9O-Jok7KTFXxV-4" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="726" y="919" as="sourcePoint" />
             <mxPoint x="1296" y="919" as="targetPoint" />
@@ -152,7 +152,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J4l6CzO9O-Jok7KTFXxV-5" value="multiproduct scenario depend on the basis of selection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="J4l6CzO9O-Jok7KTFXxV-5" value="multiproduct scenario depend on the basis of selection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="861" y="889" width="310" height="20" as="geometry" />
         </mxCell>
       </root>
