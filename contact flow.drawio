@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T05:22:33.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="XmhpA9jAMkZ8w6nin1n9" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T05:41:33.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="DMDTz3nWLl3-T_yACsoE" version="14.3.2" type="github">
   <diagram id="h6qlHB6eGpHt7OrfhJ80" name="Page-1">
-    <mxGraphModel dx="1695" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,6 +154,84 @@
         </mxCell>
         <mxCell id="J4l6CzO9O-Jok7KTFXxV-5" value="multiproduct scenario depend on the basis of selection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="861" y="889" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-1" value="City*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="940" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-2" value="Name*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="920" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-3" value="Email Id (Optional)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="960" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-4" value="Contact Number *" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="-241" y="980" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-5" value="Do you have a current Account *" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="-241" y="1000" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-6" value="&lt;b&gt;Basic field&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="-244" y="889" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-7" value="&lt;b&gt;Mandatory field Dependent on product&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="-291.5" y="1040" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cr1LwezMeJL9pVuXOqMD-12" target="Cr1LwezMeJL9pVuXOqMD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cr1LwezMeJL9pVuXOqMD-12" target="Cr1LwezMeJL9pVuXOqMD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cr1LwezMeJL9pVuXOqMD-12" target="Cr1LwezMeJL9pVuXOqMD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-12" value="Product Type" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="36" y="1080" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cr1LwezMeJL9pVuXOqMD-13" target="Cr1LwezMeJL9pVuXOqMD-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-13" value="PoS Machine" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-231.5" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cr1LwezMeJL9pVuXOqMD-15" target="Cr1LwezMeJL9pVuXOqMD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-15" value="Gifting" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="16" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cr1LwezMeJL9pVuXOqMD-17" target="Cr1LwezMeJL9pVuXOqMD-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-17" value="&amp;nbsp;Working Capital" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-19" value="&lt;span style=&quot;text-align: center&quot;&gt;How many PoS do you need ?&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-231.5" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-21" value="Required" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-164" y="1360" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-22" value="&lt;span style=&quot;text-align: center&quot;&gt;Company Name&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="16" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-24" value="Required" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="92" y="1360" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-25" value="&lt;span style=&quot;text-align: center&quot;&gt;What amount do you need ?&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-27" value="Required" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="1360" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-28" value="Except of these product It will directly show thank you page." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-114" y="1520" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr1LwezMeJL9pVuXOqMD-29" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-244" y="1540" as="sourcePoint" />
+            <mxPoint x="366" y="1540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
